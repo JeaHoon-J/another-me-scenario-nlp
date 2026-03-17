@@ -1,7 +1,10 @@
 # # another-me-scenario-nlp
-# 🌌 또 다른 나의 세계(Parallel World Story) 시나리오 생성 및 감성분석(LLM 기반 평행세계 시나리오 생성 및 Transformer Multi-Task NLP 통합 분석 파이프라인)
+---
 
-본 프로젝트는 **Llama-3를 활용해 페르소나 기반의 평행세계 스토리를 생성**하고, **Transformer 모델들(KoBART, KcELECTRA, KeyBERT)을 결합**하여 텍스트 요약·감성 분석·키워드 추출까지 한 번에 수행하는 **지능형 NLP 워크플로우**를 구축한 프로젝트입니다.
+# 🌌 또 다른 나의 세계(Parallel World Story) 시나리오 생성 및 감성분석
+**LLM 기반 평행세계 시나리오 생성 및 Transformer Multi-Task NLP 통합 분석 파이프라인**
+
+- 본 프로젝트는 **Llama-3를 활용해 페르소나 기반의 평행세계 스토리를 생성**하고, **Transformer 모델들(KoBART, KcELECTRA, KeyBERT)을 결합**하여 텍스트 요약·감성 분석·키워드 추출까지 한 번에 수행하는 **지능형 NLP 워크플로우**를 구축한 프로젝트입니다.
 
 ---
 
