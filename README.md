@@ -191,4 +191,3 @@ Negative (Neg: 0.5073 / Pos: 0.4927)
 </details>
 
 ---
-© 2026 Je-Hoon (SKN24). All rights reserved.
